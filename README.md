@@ -125,7 +125,9 @@ The dataset contains 4 years of retail transaction records (Jan 2014 – Dec 201
 - **November, December and September** are the peak months; **February** is the weakest.
 
 ---
+## Dashboard Preview
 
+![Excel Dashboard](Exceldashboardpng.)
 ## ❓ Business Questions Answered
 
 1. What are the total sales, profit and profit margin?
