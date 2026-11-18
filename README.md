@@ -126,8 +126,8 @@ The dataset contains 4 years of retail transaction records (Jan 2014 – Dec 201
 
 ---
 ## Dashboard Preview
+![image alt](https://github.com/Nihaldatkhile-AI/EXCEL-TASKS/blob/fbad1fe9a8e140b01f5f16865d4c6a51ee02636a/Excel%20dashboard%20png.)
 
-![Excel Dashboard](Exceldashboardpng.)
 ## ❓ Business Questions Answered
 
 1. What are the total sales, profit and profit margin?
